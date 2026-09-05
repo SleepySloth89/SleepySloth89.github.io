@@ -28,6 +28,23 @@ followed by aircraft identification and OSINT correlation.
 
 [Read the ADS-B Writeup](./writeups/ads-b_final.pdf)
 
+## Cybersecurity Competitions
+
+### National Cyber League (NCL)
+
+I've competed in NCL individual and team competitions since 2024,
+working through practical cybersecurity challenges and continuing
+to improve my performance over multiple seasons.
+
+- **Spring 2026 Individual** — Diamond-3, 87th percentile
+- **Spring 2026 Team** — Platinum-2, 71st percentile
+- **Fall 2025 Individual** — Diamond-4, 81st percentile
+- **Fall 2025 Team** — Platinum-2, 71st percentile
+- **Spring 2025 Individual** — Platinum-1, 80th percentile
+- **Spring 2025 Team** — Platinum-2, 72nd percentile
+- **Fall 2024 Individual** — Gold-2, 52nd percentile
+- **Fall 2024 Team** — Platinum-1, 80th percentile
+
 ## About Me
 
 Cybersecurity student at Oakland University interested in
