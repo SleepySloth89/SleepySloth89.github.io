@@ -28,6 +28,26 @@ followed by aircraft identification and OSINT correlation.
 
 [Read the ADS-B Writeup](./writeups/ads-b_final.pdf)
 
+## Certifications
+
+### CompTIA
+
+- **CompTIA IT Fundamentals (ITF+)** — October 2024
+  - No expiration
+
+
+### Information Technology Specialist
+
+- Information Technology Specialist in Cybersecurity — 2024
+- Information Technology Specialist in Network Security — 2024
+- Information Technology Specialist in Networking — 2025
+- Information Technology Specialist in Device Configuration and Management — 2025
+- Information Technology Specialist in Data Analytics — 2024
+
+### Cisco
+
+- Cisco Certified Support Technician Cybersecurity — 2025
+
 ## Cybersecurity Competitions
 
 ### National Cyber League (NCL)
