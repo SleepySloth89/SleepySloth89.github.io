@@ -50,6 +50,16 @@ followed by aircraft identification and OSINT correlation.
 
 ## Cybersecurity Competitions
 
+### Business Professionals of America (BPA)
+
+**Chapter President — 2 Years**
+
+- Led a 6-member BPA chapter
+- **5th Place — Computer Security, State Competition (2025)**
+- **5th Place — Linux Fundamentals, State Competition (2025)**
+- Competed at the **BPA National Leadership Conference in Tennessee (2026)**
+- Passed the **Linux Pro** certification at the 2026 national conference
+
 ### National Cyber League (NCL)
 
 I've competed in NCL individual and team competitions since 2024,
