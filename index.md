@@ -22,7 +22,7 @@ I'll be documenting interesting labs, CTF challenges,
 security research, and lessons learned here.
 
 ### ADS-B RF Monitoring & Aircraft OSINT
-
+  **Completed** 9/24/26
 Passive ADS-B reception using a HackRF One and PortaPack H2,
 followed by aircraft identification and OSINT correlation.
 
