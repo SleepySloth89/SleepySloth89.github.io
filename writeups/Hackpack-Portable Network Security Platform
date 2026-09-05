@@ -4,3 +4,5 @@ Beneath the aesthetic, the HackPack is a practical Linux-based networking projec
 The travel router provides the primary network gateway and can route traffic through WireGuard or the Tor network, while the Raspberry Pi provides local services including Pi-hole for DNS filtering and network-level blocking. The Pixel 3 XL serves as the administrative terminal, allowing me to manage and interact with the system through Termux without requiring a laptop.
 The entire platform is designed to be small enough to deploy casually in environments such as cafés, libraries, or while traveling. One of the project's goals is to make secure networking practical without carrying an obvious collection of networking equipment everywhere I go.
 And, admittedly, there is another design goal: make the whole thing look more like an ordinary sling bag than a portable cybersecurity lab. The Watch Dogs-inspired aesthetic is mostly for fun, but it gives the project its own identity while keeping the actual hardware relatively inconspicuous.
+
+        **will need to go in more details thats the intro**
