@@ -21,6 +21,13 @@ and bug bounty research.
 I'll be documenting interesting labs, CTF challenges,
 security research, and lessons learned here.
 
+### ADS-B RF Monitoring & Aircraft OSINT
+
+Passive ADS-B reception using a HackRF One and PortaPack H2,
+followed by aircraft identification and OSINT correlation.
+
+[Read the ADS-B Writeup](./writeups/ads-b_final.pdf)
+
 ## About Me
 
 Cybersecurity student at Oakland University interested in
